@@ -9,6 +9,11 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+
+  asdasdasda
+
+  asdasdasdad
+  asd
   "dependencies": {
     "@tailwindcss/postcss": "^4.0.6",
     "@tailwindcss/vite": "^4.0.6",
@@ -16,7 +21,7 @@
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router-dom": "^7.2.0",
-    "tailwindcss": "^4.0.6"
+    "tailwindcss
   },
   "devDependencies": {
     "@eslint/js": "^9.19.0",
